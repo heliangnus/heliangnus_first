@@ -1,5 +1,5 @@
 package com.bjsxt1.cumberTest.steps1;
-
+/*
 import com.bjsxt.cucumberTest.steps.Autor;
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.JsonNode;
@@ -14,7 +14,8 @@ public class JsonStep { //传参数: it will pass the param which from json.feature
 
     private ObjectMapper objectMapper = new ObjectMapper();
     //get datasource from feature file
-
+*/
+/*
  @DocStringType
     public JsonNode jsonTo(String docString) throws JsonProcessingException {
         return objectMapper.readTree(docString);
@@ -41,7 +42,7 @@ public class JsonStep { //传参数: it will pass the param which from json.feature
         System.out.println("display "+arg0);
     }
 
-
+*/
 
 
 }
