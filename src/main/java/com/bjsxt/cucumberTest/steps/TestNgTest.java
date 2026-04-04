@@ -17,7 +17,7 @@ public class TestNgTest {
 
     @Test(enabled = false)
     public void justTest() {
-        System.out.println("yyyyyyyyyyyy  ");
+        System.out.println("xxxxxxxxxxxxxxxx  ");
     }
 
 
