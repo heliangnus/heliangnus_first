@@ -1,4 +1,4 @@
-package com.bjsxt.cucumberTest.steps;
+package main.java.com.bjsxt.cucumberTest.steps;
 
 public class Autor {
     private String firstNa;

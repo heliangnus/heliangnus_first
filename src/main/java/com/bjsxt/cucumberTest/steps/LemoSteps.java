@@ -1,4 +1,4 @@
-package com.bjsxt.cucumberTest.steps;
+package main.java.com.bjsxt.cucumberTest.steps;
 
 import dev.failsafe.internal.util.Durations;
 import io.cucumber.java.After;

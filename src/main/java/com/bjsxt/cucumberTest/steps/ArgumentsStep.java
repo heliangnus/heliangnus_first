@@ -1,4 +1,4 @@
-package com.bjsxt.cucumberTest.steps;
+package main.java.com.bjsxt.cucumberTest.steps;
 
 import io.cucumber.java.ParameterType;
 import io.cucumber.java.en.Given;
@@ -29,7 +29,7 @@ public class ArgumentsStep { //´«²ÎÊý: it will pass the param which from argumen
 
 
     @When("I have a {color} ball")
-    public void search(Colour color) {
+    public void search(com.bjsxt.cucumberTest.steps.Colour color) {
         // Write code here that turns the phrase above into concrete actions
         System.out.println(color);
     }

@@ -1,4 +1,4 @@
-package com.bjsxt.cucumberTest.steps;
+package main.java.com.bjsxt.cucumberTest.steps;
 
 import io.cucumber.java.ParameterType;
 import io.cucumber.java.en.Given;
