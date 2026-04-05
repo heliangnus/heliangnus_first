@@ -1,0 +1,16 @@
+<suite name="FutureLoan" verbose="1" >
+    <test name = "登录测试" >
+        <classes>
+            <class name="com.bjsxt.cucumberTest.LemonRunner" />
+            
+            <class name="com.bjsxt.cucumberTest.steps.TestNgTest">
+              <parameter name="test1" value="Tank"></parameter>
+            </class>
+        </classes>
+
+
+    </test>
+
+
+
+</suite>
